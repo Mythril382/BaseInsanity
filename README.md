@@ -1,0 +1,2 @@
+# BaseInsanity
+insane
