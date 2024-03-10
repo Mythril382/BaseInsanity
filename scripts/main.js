@@ -1,1 +1,3 @@
-js.main
+Events.on(ClientLoadEvent, e => {
+    Reflect.set(BaseGenerator, "insanity", true);
+});
