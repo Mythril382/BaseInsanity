@@ -1,0 +1,9 @@
+displayName: Base Insanity
+name: base-insanity
+author: Mythril
+subtitle: Is this even possible?
+description: Makes attack sectors insane in Serpulo.
+version: 1.0.0
+minGameVersion: 146
+hidden: true
+repo: Mythril382/BaseInsanity
